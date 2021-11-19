@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Scan</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://studentportal.diu.edu.bd/.well-known/assetlinks.json\" }]</string>
+
+</resources>

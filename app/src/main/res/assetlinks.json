@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jagoronlab.qrscan",
+    "sha256_cert_fingerprints":
+    ["14:EA:9D:E0:F1:32:B2:11:14:1B:5B:4C:3B:B1:2A:5E:64:53:73:24:17:E0:BE:AB:96:9D:DC:89:17:28:57:ED"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://studentportal.diu.edu.bd"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jagoronlab.qrscan",
+    "sha256_cert_fingerprints":
+    ["14:EA:9D:E0:F1:32:B2:11:14:1B:5B:4C:3B:B1:2A:5E:64:53:73:24:17:E0:BE:AB:96:9D:DC:89:17:28:57:ED"]
+  }
+}]
